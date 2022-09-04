@@ -1,6 +1,7 @@
 ### Bem vindx!!! Eu sou Guilherme Brandão 🎈
 - 🖥 Graduando em Análise e Desenvolvimento de Sistemas
 - 🧠 Estudando JS
+- 👨🏼‍💻 Futuro Front-end
 ##
 <div align="center">
   <a href="https://github.com/Brandaoguilherme">
