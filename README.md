@@ -1,6 +1,6 @@
 ### Bem vindx!!! Eu sou Guilherme Brandão 🎈
-- 🖥 Graduando em Análise e Desenvolvimento de Sistemas
-- 🧠 Estudando JS
+- 🖥 Desenvolvedor Front-end
+- 🧠 Html | Css | Bootstrap | JavaScript
 - 👨🏼‍💻 
 ##
 
